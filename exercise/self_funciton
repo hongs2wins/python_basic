@@ -1,0 +1,14 @@
+def hap(a,b):
+    print(a+b)
+    
+def gop(a,b):
+    print(a*b)
+
+def hap_gop(a,b):
+    hap(a,b)
+    gop(a,b)
+
+
+hap(4,5)
+gop(2,3)
+hap_gop(2,3)

@@ -1,5 +1,6 @@
 # 사용자 정의 모듈의 사용
 import ch05.sec1.taekwondo as tk
+
 hap = tk.sum(80, 90, 70)
 py = tk.avg(80, 90, 70)
 p1 = tk.kwa(80)
